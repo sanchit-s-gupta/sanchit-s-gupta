@@ -1,7 +1,7 @@
 <!-- Animated header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Sanchit%20Gupta&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Java%20Backend%20Engineer%20%7C%20Order%20Management%20%26%20Microservices&descAlignY=58&descSize=20&fontColor=ffffff" alt="Sanchit Gupta banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Sanchit%20Gupta&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Java%20Backend%20Engineer%20%7C%20Order%20Management%20and%20Microservices&descAlignY=58&descSize=20&fontColor=ffffff" alt="Sanchit Gupta banner" width="100%"/>
 
 <a href="https://github.com/sanchit-s-gupta">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%A2+3%2B+Years+in+Java+Backend;Scaling+Order+Systems+from+1K+to+45K+orders%2Fday;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kafka+%E2%80%A2+SQL;Building+with+AI-assisted+SDLC+%F0%9F%A4%96" alt="Typing animation" />
